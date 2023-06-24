@@ -1,0 +1,12 @@
+name: randomizer
+main: com.example.Plugin
+version: 1.0
+api-version: 1.15
+
+commands:
+  start_randomize:
+    description: Запускает рандомные события
+    usage: /start_randomize
+  stop_randomize:
+    description: Отключает рандомные события
+    usage: /stop_randomize
